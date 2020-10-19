@@ -1,0 +1,4 @@
+git init - Erstellen eines Repositories 
+git status - Zeigt den Status an
+git add <Pfad> - Datei zur staging area hinzufügen
+git commit -m "Unsere Commit Message" - Neuen Speicherpunkt erstellen
